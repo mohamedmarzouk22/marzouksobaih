@@ -1,0 +1,30 @@
+[
+  {
+    "type": "youtube",
+    "id": "1einzjxjUik",
+    "title": "p53–DNA dissociation by PaCS-MD: the major pathway",
+    "description": "Dissociation of the p53 DNA-binding domain from DNA, major pathway, sampled with PaCS-MD and analysed with a Markov state model.",
+    "tags": ["PaCS-MD", "MSM", "p53–DNA"]
+  },
+  {
+    "type": "youtube",
+    "id": "YhVET5gh8gs",
+    "title": "p53–DNA dissociation: the secondary pathway",
+    "description": "A less populated dissociation route resolved by the same workflow.",
+    "tags": ["PaCS-MD", "MSM"]
+  },
+  {
+    "type": "youtube",
+    "id": "wYs2osjnwNM",
+    "title": "Close-up of the dissociation pathway",
+    "description": "Key residues at the protein–DNA interface during dissociation.",
+    "tags": ["PaCS-MD", "interface residues"]
+  },
+  {
+    "type": "image",
+    "src": "assets/img/work/alchemical_freeenergycalculation.gif",
+    "title": "Alchemical transformation with REST/FEP",
+    "description": "The thermodynamic cycle behind the FEP/REST2 workflow used to predict mutation effects on protein stability (ΔΔG).",
+    "tags": ["FEP", "REST2", "ΔΔG"]
+  }
+]

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /personal.html
+Sitemap: https://marzouksobaih.com/sitemap.xml
